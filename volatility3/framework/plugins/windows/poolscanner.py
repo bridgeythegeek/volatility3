@@ -277,15 +277,16 @@ class PoolScanner(plugins.PluginInterface):
 
         cookie = handles.Handles.find_cookie(context = context, layer_name = layer_name, symbol_table = symbol_table)
 
-        is_windows_10 = versions.is_windows_10(context, symbol_table)
+        # is_windows_10 = versions.is_windows_10(context, symbol_table)
         is_windows_8_or_later = versions.is_windows_8_or_later(context, symbol_table)
 
         # start off with the primary virtual layer
         scan_layer = layer_name
 
         # switch to a non-virtual layer if necessary
-        if not is_windows_10:
-            scan_layer = context.layers[scan_layer].config['memory_layer']
+        # FIXME: Why do we switch to physical if not Win10?
+        # if not is_windows_10:
+        #     scan_layer = context.layers[scan_layer].config['memory_layer']
 
         if symbols.symbol_table_is_64bit(context, symbol_table):
             alignment = 0x10
