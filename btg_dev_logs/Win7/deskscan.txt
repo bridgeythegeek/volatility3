@@ -1,0 +1,163 @@
+**************************************************
+Desktop: 0x1e5397b0, Name: Service-0x0-3e7$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xfffff900c1c00a70, fsHooks: 0
+spwnd: 0xfffff900c1c00b90, Windows: 4
+Heap: 0xfffff900c1c00000, Size: 0xc0000, Base: 0xfffff900c1c00000, Limit: 0xfffff900c1cc0000
+ 1576 (svchost.exe 896 parent 488)
+ 2680 (svchost.exe 896 parent 488)
+ 1200 (svchost.exe 896 parent 488)
+ 1968 (mscorsvw.exe 1400 parent 488)
+ 1380 (mscorsvw.exe 388 parent 488)
+ 1312 (mscorsvw.exe 1400 parent 488)
+ 1264 (mscorsvw.exe 388 parent 488)
+ 288 (svchost.exe 896 parent 488)
+ 1364 (svchost.exe 896 parent 488)
+ 936 (SearchIndexer. 2032 parent 488)
+ 1152 (SearchIndexer. 2032 parent 488)
+ 2036 (SearchIndexer. 2032 parent 488)
+ 192 (svchost.exe 860 parent 488)
+ 1240 (svchost.exe 896 parent 488)
+ 552 (svchost.exe 896 parent 488)
+ 1008 (svchost.exe 860 parent 488)
+ 976 (svchost.exe 896 parent 488)
+ 968 (svchost.exe 860 parent 488)
+**************************************************
+Desktop: 0x1f1bb780, Name: Service-0x0-3e4$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xfffff900c1cc0a70, fsHooks: 0
+spwnd: 0xfffff900c1cc0b90, Windows: 6
+Heap: 0xfffff900c1cc0000, Size: 0xc0000, Base: 0xfffff900c1cc0000, Limit: 0xfffff900c1d80000
+ 540 (sppsvc.exe 1832 parent 488)
+ 500 (svchost.exe 556 parent 488)
+ 744 (svchost.exe 716 parent 488)
+**************************************************
+Desktop: 0x1f1d6cc0, Name: Service-0x0-3e5$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xfffff900c1e00a70, fsHooks: 0
+spwnd: 0xfffff900c1e00b90, Windows: 10
+Heap: 0xfffff900c1e00000, Size: 0xc0000, Base: 0xfffff900c1e00000, Limit: 0xfffff900c1ec0000
+ 2424 (svchost.exe 1460 parent 488)
+ 1328 (svchost.exe 1460 parent 488)
+ 1472 (svchost.exe 1020 parent 488)
+ 1372 (svchost.exe 1020 parent 488)
+ 1416 (svchost.exe 1020 parent 488)
+ 1188 (svchost.exe 1084 parent 488)
+ 1088 (svchost.exe 1084 parent 488)
+**************************************************
+Desktop: 0x1fed7df0, Name: msswindowstation\mssrestricteddesk, Next: 0x0
+SessionId: 0, DesktopInfo: 0xfffff900c1ec0a70, fsHooks: 0
+spwnd: 0xfffff900c1ec0b90, Windows: 12
+Heap: 0xfffff900c1ec0000, Size: 0xc0000, Base: 0xfffff900c1ec0000, Limit: 0xfffff900c1f80000
+**************************************************
+Desktop: 0x1e4bbb30, Name: WinSta0\Default, Next: 0xfffffa8001f65390
+SessionId: 0, DesktopInfo: 0xfffff900c0600a70, fsHooks: 32
+spwnd: 0xfffff900c0600b90, Windows: 8
+Heap: 0xfffff900c0600000, Size: 0x1400000, Base: 0xfffff900c0600000, Limit: 0xfffff900c1a00000
+ 1808 (spoolsv.exe 1048 parent 488)
+ 1800 (spoolsv.exe 1048 parent 488)
+ 1792 (spoolsv.exe 1048 parent 488)
+ 1080 (spoolsv.exe 1048 parent 488)
+ 1052 (spoolsv.exe 1048 parent 488)
+ 468 (csrss.exe 352 parent 344)
+ 460 (csrss.exe 352 parent 344)
+ 396 (wininit.exe 392 parent 344)
+**************************************************
+Desktop: 0x1e765390, Name: WinSta0\Disconnect, Next: 0xfffffa800259cc10
+SessionId: 0, DesktopInfo: 0xfffff900c05e0a70, fsHooks: -
+spwnd: -, Windows: 0
+Heap: 0xfffff900c05e0000, Size: -, Base: -, Limit: -
+**************************************************
+Desktop: 0x1e19cc10, Name: WinSta0\Winlogon, Next: 0x0
+SessionId: 0, DesktopInfo: 0xfffff900c05b0a70, fsHooks: 0
+spwnd: 0xfffff900c05b0b90, Windows: 1
+Heap: 0xfffff900c05b0000, Size: 0x30000, Base: 0xfffff900c05b0000, Limit: 0xfffff900c05e0000
+**************************************************
+Desktop: 0x1e77b540, Name: WinSta0\Default, Next: 0xfffffa80020bbe90
+SessionId: 1, DesktopInfo: 0xfffff900c0600a70, fsHooks: 0
+spwnd: 0xfffff900c0600b90, Windows: 551
+Heap: 0xfffff900c0600000, Size: 0x1400000, Base: 0xfffff900c0600000, Limit: 0xfffff900c1a00000
+ 1552 (DumpIt.exe 2420 parent 1748)
+ 1064 (conhost.exe 2152 parent 400)
+ 2428 (conhost.exe 2152 parent 400)
+ 472 (csrss.exe 400 parent 380)
+ 464 (csrss.exe 400 parent 380)
+ 2464 (explorer.exe 1748 parent 1712)
+ 2020 (explorer.exe 1748 parent 1712)
+ 2188 (explorer.exe 1748 parent 1712)
+ 572 (explorer.exe 1748 parent 1712)
+ 1196 (explorer.exe 1748 parent 1712)
+ 2132 (taskhost.exe 1656 parent 488)
+ 804 (explorer.exe 1748 parent 1712)
+ 2088 (explorer.exe 1748 parent 1712)
+ 2256 (explorer.exe 1748 parent 1712)
+ 1368 (taskhost.exe 1656 parent 488)
+ 940 (explorer.exe 1748 parent 1712)
+ 2816 (ComCtl.exe 2576 parent 1748)
+ 2880 (conhost.exe 2788 parent 400)
+ 2784 (conhost.exe 2788 parent 400)
+ 852 (dllhost.exe 2200 parent 592)
+ 2524 (dllhost.exe 2200 parent 592)
+ 1476 (explorer.exe 1748 parent 1712)
+ 1560 (explorer.exe 1748 parent 1712)
+ 2232 (wmplayer.exe 1620 parent 2144)
+ 1724 (wmplayer.exe 1620 parent 2144)
+ 1212 (wmplayer.exe 1620 parent 2144)
+ 2492 (wmplayer.exe 1620 parent 2144)
+ 2380 (wmplayer.exe 1620 parent 2144)
+ 2384 (wmplayer.exe 1620 parent 2144)
+ 2396 (wmplayer.exe 1620 parent 2144)
+ 2284 (wmplayer.exe 1620 parent 2144)
+ 2400 (wmplayer.exe 1620 parent 2144)
+ 2216 (wmplayer.exe 1620 parent 2144)
+ 2276 (wmplayer.exe 1620 parent 2144)
+ 1608 (wmplayer.exe 1620 parent 2144)
+ 2600 (iexplore.exe 2532 parent 1748)
+ 2972 (iexplore.exe 2648 parent 2532)
+ 2968 (iexplore.exe 2532 parent 1748)
+ 2904 (iexplore.exe 2648 parent 2532)
+ 2772 (iexplore.exe 2648 parent 2532)
+ 2664 (iexplore.exe 2648 parent 2532)
+ 2592 (iexplore.exe 2532 parent 1748)
+ 2668 (iexplore.exe 2648 parent 2532)
+ 2652 (iexplore.exe 2648 parent 2532)
+ 2596 (iexplore.exe 2532 parent 1748)
+ 2636 (iexplore.exe 2532 parent 1748)
+ 2616 (iexplore.exe 2532 parent 1748)
+ 2536 (iexplore.exe 2532 parent 1748)
+ 2280 (mstsc.exe 2244 parent 1748)
+ 2248 (mstsc.exe 2244 parent 1748)
+ 2148 (explorer.exe 1748 parent 1712)
+ 280 (notepad.exe 484 parent 1748)
+ 384 (explorer.exe 1748 parent 1712)
+ 2012 (explorer.exe 1748 parent 1712)
+ 2024 (explorer.exe 1748 parent 1712)
+ 1904 (explorer.exe 1748 parent 1712)
+ 2008 (explorer.exe 1748 parent 1712)
+ 2004 (explorer.exe 1748 parent 1712)
+ 2000 (explorer.exe 1748 parent 1712)
+ 1996 (explorer.exe 1748 parent 1712)
+ 1980 (taskhost.exe 1656 parent 488)
+ 1936 (VBoxTray.exe 1876 parent 1748)
+ 1920 (VBoxTray.exe 1876 parent 1748)
+ 1908 (explorer.exe 1748 parent 1712)
+ 1880 (VBoxTray.exe 1876 parent 1748)
+ 1872 (explorer.exe 1748 parent 1712)
+ 1836 (explorer.exe 1748 parent 1712)
+ 1788 (explorer.exe 1748 parent 1712)
+ 1784 (explorer.exe 1748 parent 1712)
+ 1752 (explorer.exe 1748 parent 1712)
+ 1744 (dwm.exe 1732 parent 860)
+ 1736 (dwm.exe 1732 parent 860)
+ 1728 (taskhost.exe 1656 parent 488)
+ 1676 (taskhost.exe 1656 parent 488)
+ 1660 (taskhost.exe 1656 parent 488)
+**************************************************
+Desktop: 0x1e4bbe90, Name: WinSta0\Disconnect, Next: 0xfffffa80028d54d0
+SessionId: 1, DesktopInfo: 0xfffff900c03e0a70, fsHooks: 0
+spwnd: 0xfffff900c03e0b90, Windows: 1
+Heap: 0xfffff900c03e0000, Size: 0x18000, Base: 0xfffff900c03e0000, Limit: 0xfffff900c03f8000
+**************************************************
+Desktop: 0x1dcd54d0, Name: WinSta0\Winlogon, Next: 0x0
+SessionId: 1, DesktopInfo: 0xfffff900c05c0a70, fsHooks: 0
+spwnd: 0xfffff900c05c0b90, Windows: 106
+Heap: 0xfffff900c05c0000, Size: 0x30000, Base: 0xfffff900c05c0000, Limit: 0xfffff900c05f0000
+ 456 (winlogon.exe 428 parent 380)
+ 432 (winlogon.exe 428 parent 380)

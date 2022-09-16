@@ -1,0 +1,48 @@
+**************************************************
+WindowStation: 0x1e24f270, Name: Service-0x0-3e7$, Next: 0xfffffa80015bb8f0
+SessionId: 0, AtomTable: 0xfffff8a00090ec70, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1f1bb8f0, Name: Service-0x0-3e4$, Next: 0xfffffa80015d6e30
+SessionId: 0, AtomTable: 0xfffff8a000a8e020, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1f1d6e30, Name: Service-0x0-3e5$, Next: 0xfffffa8000797f60
+SessionId: 0, AtomTable: 0xfffff8a000ac3020, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1fed7f60, Name: msswindowstation, Next: 0x0
+SessionId: 0, AtomTable: 0xfffff8a0011d2630, Interactive: False
+Desktops: mssrestricteddesk
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1ec01690, Name: WinSta0, Next: 0xfffffa800224f270
+SessionId: 0, AtomTable: 0xfffff8a0008176a0, Interactive: True
+Desktops: Default, Disconnect, Winlogon
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1ee841b0, Name: WinSta0, Next: 0x0
+SessionId: 1, AtomTable: 0xfffff8a000817020, Interactive: True
+Desktops: Default, Disconnect, Winlogon
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0xfffff900c060fd80 1876 VBoxTray.exe
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
